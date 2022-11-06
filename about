@@ -1,0 +1,479 @@
+<!doctype html>
+<html lang="en">
+ <head> 
+  <meta http-equiv="x-ua-compatible" content="ie=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"> 
+  <title>MakeMoneyChopMoney - About</title> 
+  <meta http-equiv="x-ua-compatible" content="ie=edge"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1"> 
+  <link rel="shortcut icon" type="image/png" href="https://makemoneychopmoney.com/assets/images/logoIcon/favicon.png"> 
+  <!-- bootstrap 4  --> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/vendor/bootstrap.min.css"> 
+  <!-- fontawesome 5  --> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/all.min.css"> 
+  <!-- line-awesome webfont --> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/line-awesome.min.css"> 
+  <!-- image and videos view on page plugin --> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/lightcase.css"> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/vendor/animate.min.css"> 
+  <!-- custom select css --> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/vendor/nice-select.css"> 
+  <!-- slick slider css --> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/vendor/slick.css"> 
+  <!-- dashdoard main css --> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/main.css"> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic//css/custom.css"> 
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/templates/basic/css/color.php?color1=0099ff&amp;color2=001d4a"> 
+  <meta name="title" Content="MakeMoneyChopMoney - About"> 
+  <meta name="description" content="Makemoneychopmoney is a complete  Pay Per Click platform. You can make money with just a click"> 
+  <meta name="keywords" content="ppc,ptc,pay per click,earn money,ppv,pay per view,paid click,earn per click,ptclab,money,Moneyman,MakemoneyChopMoney,chopmoney,investment,earning,best investment platform in Cameroon,Cameroon,legit investment in Cameroon"> 
+  <!-- Apple Stuff --> 
+  <link rel="apple-touch-icon" href="https://makemoneychopmoney.com/assets/images/logoIcon/logo.png"> 
+  <meta name="apple-mobile-web-app-capable" content="yes"> 
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"> 
+  <meta name="apple-mobile-web-app-title" content="MakeMoneyChopMoney - About"> 
+  <!-- Google / Search Engine Tags --> 
+  <meta itemprop="name" content="MakeMoneyChopMoney - About"> 
+  <meta itemprop="description" content="Makemoneychopmoney is a complete  Pay Per Click platform. You can make money with just a click"> 
+  <meta itemprop="image" content="https://makemoneychopmoney.com/assets/images/seo/6285022df113b1652884013.png"> 
+  <!-- Facebook Meta Tags --> 
+  <meta property="og:type" content="website"> 
+  <meta property="og:title" content="Makemoneychopmoney - Pay Per Click Platform"> 
+  <meta property="og:description" content="Makemoneychopmoney is a complete and ultimate Pay Per Click Platform. It developed to alleviate poverty"> 
+  <meta property="og:image" content="https://makemoneychopmoney.com/assets/images/seo/6285022df113b1652884013.png"> 
+  <meta property="og:image:type" content="image/png"> 
+  <meta property="og:image:width" content="600"> 
+  <meta property="og:image:height" content="315"> 
+  <meta property="og:url" content="https://makemoneychopmoney.com/about"> 
+  <!-- Twitter Meta Tags --> 
+  <meta name="twitter:card" content="summary_large_image"> 
+ </head> 
+ <body> 
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&amp;version=v4.0&amp;appId=---&amp;autoLogAppEvents=1"></script> 
+  <div class="preloader"> 
+   <div class="dl"> 
+    <div class="dl__container"> 
+     <div class="dl__corner--top"></div> 
+     <div class="dl__corner--bottom"></div> 
+    </div> 
+    <div class="dl__square"></div> 
+   </div> 
+  </div> 
+  <!-- scroll-to-top start --> 
+  <div class="scroll-to-top"> 
+   <span class="scroll-icon"> <i class="fa fa-rocket" aria-hidden="true"></i> </span> 
+  </div> 
+  <!-- scroll-to-top end --> 
+  <div class="page-wrapper"> 
+   <!-- header-section start  --> 
+   <header class="header"> 
+    <div class="header__top"> 
+     <div class="container"> 
+      <div class="row align-items-center"> 
+       <div class="col-sm-6"> 
+        <div class="left d-flex align-items-center"> 
+         <div class="language"> 
+          <i class="las la-globe-europe"></i> 
+          <select id="langSel" class="nic-select"> <option value="en" selected>English</option> <option value="fr-fr">French</option> </select> 
+         </div> 
+        </div> 
+       </div> 
+       <div class="col-sm-6"> 
+        <div class="right text-sm-right text-center"> 
+         <a href="https://makemoneychopmoney.com/login"><i class="las la-sign-in-alt"></i> Login</a> 
+         <a href="https://makemoneychopmoney.com/register"><i class="las la-user-plus"></i> Registration</a> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <div class="header__bottom"> 
+     <div class="container"> 
+      <nav class="navbar navbar-expand-xl p-0 align-items-center"> 
+       <a class="site-logo site-title" href="https://makemoneychopmoney.com"><img src="https://makemoneychopmoney.com/assets/images/logoIcon/logo.png" alt="site-logo"><span class="logo-icon"><i class="flaticon-fire"></i></span></a> 
+       <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="menu-toggle"></span> </button> 
+       <div class="collapse navbar-collapse" id="navbarSupportedContent"> 
+        <ul class="navbar-nav main-menu ml-auto"> 
+         <li><a href="https://makemoneychopmoney.com">Home</a></li> 
+         <li><a href="https://makemoneychopmoney.com/about">About</a></li> 
+         <li><a href="https://makemoneychopmoney.com/faq">Faq</a></li> 
+         <li><a href="https://makemoneychopmoney.com/blog">Blog</a></li> 
+         <li class="menu_has_children"><a href="#0">Our Groups</a> 
+          <ul class="sub-menu"> 
+           <li><a href="https://t.me/+ogz7H0a1DBU1ZWI0" target="blank">Join Our Telegram Group</a></li> 
+           <li><a href="https://facebook.com/groups/496509922163754/" target="blank">Join Our Facebook Group</a></li> 
+           <li><a href="https://chat.whatsapp.com/FTGIxwAlytUGbuaxevsUHL" target="blank">Join Our WhatsApp Group</a></li> 
+          </ul> </li> 
+        </ul> 
+        <div class="nav-right"> 
+         <a href="https://makemoneychopmoney.com/contact" class="cmn-btn style--three">Contact</a> 
+        </div> 
+       </div> 
+      </nav> 
+     </div> 
+    </div> 
+   </header> 
+   <!-- header-section end  --> 
+   <section class="inner-page-hero bg_img" data-background="https://makemoneychopmoney.com/assets/images/frontend/breadcrumb/6285026e871aa1652884078.png"> 
+    <div class="container"> 
+     <div class="row"> 
+      <div class="col-lg-6"> 
+       <h2 class="page-title">About</h2> 
+       <ul class="page-list"> 
+        <li><a href="https://makemoneychopmoney.com">Home</a></li> 
+        <li class="active">About</li> 
+       </ul> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- about section start --> 
+   <section class="ptb-150"> 
+    <div class="container"> 
+     <div class="row"> 
+      <div class="col-lg-6 wow fadeInUp" data-wow-duration="0.3s" data-wow-delay="0.3s"> 
+       <div class="video-thumb"> 
+        <img src="https://makemoneychopmoney.com/assets/images/frontend/about/628687946cf8d1652983700.png" alt="image" class="w-100"> 
+        <a class="video-icon" href="https://www.youtube.com/watch?v=znbT8GWXpKw" data-rel="lightcase:myCollection"><i class="fas fa-heart"></i></a> 
+       </div> 
+      </div> 
+      <div class="col-lg-6 mt-lg-0 mt-5 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.7s"> 
+       <div class="section-content pl-lg-4 pl-0"> 
+        <h2 class="section-title mb-20">About MakeMoney ChopMoney</h2> 
+        <p></p>
+        <p style="margin-top:15px;margin-right:0px;margin-left:0px;color:rgb(111,111,111);font-size:16px;font-family:Roboto, sans-serif;"><span style="font-weight:bolder;">&nbsp;Makemoneychopmoney</span>&nbsp;i<i>s the Best Possible Way for Earn From Home</i>.&nbsp; Just by clicking you earn money without stress. There are 24 packages and each package gives you just one click a day to reduce traffic on the site. The amount you make from each package a day is indicated on the current package of the user. The more you bring people under you the more you make money from their referrals commissions but it's not compulsory to bring someone under you. it's just a boost to give you more chopping money.&nbsp;</p>
+        <hr>
+        <p style="margin-top:15px;margin-right:0px;margin-left:0px;color:rgb(111,111,111);font-size:16px;font-family:Roboto, sans-serif;">With Makemoneychopmoney, you can pay your school fees, upgrade your standard of living, have a voice in your family meeting, buy a house, buy a car etc.&nbsp;</p>
+        <hr>
+        <p style="margin-top:15px;margin-right:0px;margin-left:0px;color:rgb(111,111,111);font-size:16px;font-family:Roboto, sans-serif;">A subscription is valid for one month and you can withdraw on working days from 8:29-8:31 excluding Wednesdays. Makemoneychopmoney makes withdrawal fluid like water so as to make its users happy!</p>
+        <hr>
+        <p style="margin-top:15px;margin-right:0px;margin-left:0px;color:rgb(111,111,111);font-size:16px;font-family:Roboto, sans-serif;">The number used when registering must not necessarily be your MOMO or OM number and the name used in registering must not match with the name on your&nbsp;<span style="color:rgb(111,111,111);font-size:1rem;">MOMO or OM number</span><span style="color:rgb(111,111,111);">&nbsp;as the system gives you the option of choosing the number you wish to receive your payment .</span></p>
+        <hr>
+        <p style="margin-top:15px;margin-right:0px;margin-left:0px;color:rgb(111,111,111);font-size:16px;font-family:Roboto, sans-serif;"><span style="font-weight:bolder;">Make money and chop more money!</span></p>
+        <p></p> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- about section end --> 
+   <!-- testimonial section start --> 
+   <section class="pt-150 pb-150"> 
+    <div class="container"> 
+     <div class="row justify-content-center"> 
+      <div class="col-lg-8"> 
+       <div class="section-header text-center"> 
+        <h2 class="section-title">What People Say</h2> 
+        <p>Makemoneychopmoney is here to make your life and the lives of the people around you easy</p> 
+       </div> 
+      </div> 
+     </div>
+     <!-- row end --> 
+     <div class="row"> 
+      <div class="col-lg-12"> 
+       <div class="testimonial-slider"> 
+        <div class="single-slide"> 
+         <div class="testimonial-card"> 
+          <div class="thumb">
+           <img src="https://makemoneychopmoney.com/assets/images/frontend/testimonial/628546d0332071652901584.jpg" alt="image">
+          </div> 
+          <h5 class="name">Ngafu Chiara</h5> 
+          <span class="designation">Housewife</span> 
+          <p>Thanks to MMCM, I have been surprising my husband on daily basis.</p> 
+         </div> 
+        </div> 
+        <div class="single-slide"> 
+         <div class="testimonial-card"> 
+          <div class="thumb">
+           <img src="https://makemoneychopmoney.com/assets/images/frontend/testimonial/6285452b5494f1652901163.jpg" alt="image">
+          </div> 
+          <h5 class="name">Ayuk Seige Metube</h5> 
+          <span class="designation">Student</span> 
+          <p>Thanks to MMCM, I was able to pay my school fees and even provide for my little ones. I Just want to say a big thank you to Makemoneychopmoney team for what they have done to my life.</p> 
+         </div> 
+        </div> 
+        <div class="single-slide"> 
+         <div class="testimonial-card"> 
+          <div class="thumb">
+           <img src="https://makemoneychopmoney.com/assets/images/frontend/testimonial/628545c9c56f71652901321.jpg" alt="image">
+          </div> 
+          <h5 class="name">Drill Eyeme Esame</h5> 
+          <span class="designation">Businessman</span> 
+          <p>I was able to raise the capital for my current business through MMCM. Long live Makemoneychopmoney!</p> 
+         </div> 
+        </div> 
+        <div class="single-slide"> 
+         <div class="testimonial-card"> 
+          <div class="thumb">
+           <img src="https://makemoneychopmoney.com/assets/images/frontend/testimonial/62854658a60e91652901464.jpg" alt="image">
+          </div> 
+          <h5 class="name">Chefor Brian Che</h5> 
+          <span class="designation">Student</span> 
+          <p>I bought my first iPhone, iPhone 12 pro max thanks to MMCM. The platform is so wonderful.</p> 
+         </div> 
+        </div> 
+       </div>
+       <!-- testimonial-slider end --> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- testimonial section end --> 
+   <!-- overview section start --> 
+   <section> 
+    <div class="row no-gutters"> 
+     <div class="col-xl-6 bg_img video-thumb-two min-height--block" data-background="https://makemoneychopmoney.com/assets/images/frontend/counter/628689dd622341652984285.png"> 
+     </div> 
+     <div class="col-xl-6 pt-120 pb-120 bg--base text-md-left text-center"> 
+      <div class="overview-area"> 
+       <h2 class="section-title">MMCM, Best Place To Earn Money Online</h2> 
+       <p>With Just a click, you earn up to 375000FCFA in a day!</p> 
+       <div class="row mb-none-30 mt-50"> 
+        <div class="col-md-3 col-6 mb-30"> 
+         <div class="counter-card"> 
+          <div class="counter-card__icon text-white"> 
+           <i class="fab fa-adversal"></i> 
+          </div> 
+          <div class="counter-card__content"> 
+           <span class="count-num text-white">500K+</span> 
+           <p class="para-white">Advertisement</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="col-md-3 col-6 mb-30"> 
+         <div class="counter-card"> 
+          <div class="counter-card__icon text-white"> 
+           <i class="fas fa-paperclip"></i> 
+          </div> 
+          <div class="counter-card__content"> 
+           <span class="count-num text-white">200k+</span> 
+           <p class="para-white">Impression</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="col-md-3 col-6 mb-30"> 
+         <div class="counter-card"> 
+          <div class="counter-card__icon text-white"> 
+           <i class="fas fa-users"></i> 
+          </div> 
+          <div class="counter-card__content"> 
+           <span class="count-num text-white">200k+</span> 
+           <p class="para-white">Users</p> 
+          </div> 
+         </div> 
+        </div> 
+        <div class="col-md-3 col-6 mb-30"> 
+         <div class="counter-card"> 
+          <div class="counter-card__icon text-white"> 
+           <i class="fas fa-money-bill-alt"></i> 
+          </div> 
+          <div class="counter-card__content"> 
+           <span class="count-num text-white">FCFA 5M+</span> 
+           <p class="para-white">Withdraw</p> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- overview section end  --> 
+   <!-- feature section start --> 
+   <section class="pt-150 pb-150 section--bg has--img"> 
+    <div class="section--img bg_img"></div> 
+    <div class="container"> 
+     <div class="row justify-content-center"> 
+      <div class="col-lg-8"> 
+       <div class="section-header text-center"> 
+        <h2 class="section-title">MMCM, The Number one pay per click Platform in Africa.</h2> 
+        <p>The more people you bring the more you make money but it's not compulsory to bring in someone.</p> 
+       </div> 
+      </div> 
+     </div>
+     <!-- row end --> 
+     <div class="row mb-none-30"> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- feature section end --> 
+   <section class="pt-150 pb-150 section--bg"> 
+    <div class="container"> 
+     <div class="row justify-content-center"> 
+      <div class="col-lg-8"> 
+       <div class="section-header text-center"> 
+        <h2 class="section-title">Frequently Asked Question</h2> 
+        <p>Below are some selected questions asked by investors and our response to the questions.</p> 
+       </div> 
+      </div> 
+     </div>
+     <!-- row end --> 
+     <div class="row"> 
+      <div class="col-lg-12"> 
+       <div class="accordion cmn-accordion" id="accordionExample"> 
+        <div class="card"> 
+         <div class="card-header" id="heading0"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse0" aria-expanded="false" aria-controls="collapse0"> <i class="las la-question-circle"></i> <span>How can i get my referral link on MMCM?</span> </button> 
+         </div> 
+         <div id="collapse0" class="collapse  show " aria-labelledby="heading0" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>Click on Referral and choose Referred user then copy your referral link and share if you wish to</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+        <div class="card"> 
+         <div class="card-header" id="heading1"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse1" aria-expanded="false" aria-controls="collapse1"> <i class="las la-question-circle"></i> <span>Is MMCM Free?</span> </button> 
+         </div> 
+         <div id="collapse1" class="collapse " aria-labelledby="heading1" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>You need to subscribe. You have 24 subscriptions, each gives you one click a day. Decide from your package to get 20%,15%, 10%, 8% or 7% from each new user you bring in.</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+        <div class="card"> 
+         <div class="card-header" id="heading2"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse2" aria-expanded="false" aria-controls="collapse2"> <i class="las la-question-circle"></i> <span>Eligibility?</span> </button> 
+         </div> 
+         <div id="collapse2" class="collapse " aria-labelledby="heading2" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>Read our terms and conditions page</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+        <div class="card"> 
+         <div class="card-header" id="heading3"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse3" aria-expanded="false" aria-controls="collapse3"> <i class="las la-question-circle"></i> <span>Can I trust MMCM?</span> </button> 
+         </div> 
+         <div id="collapse3" class="collapse " aria-labelledby="heading3" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>Our system is legit and 100% safe.</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+        <div class="card"> 
+         <div class="card-header" id="heading4"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse4" aria-expanded="false" aria-controls="collapse4"> <i class="las la-question-circle"></i> <span>Which Payment method(s) does MMCM accept?</span> </button> 
+         </div> 
+         <div id="collapse4" class="collapse " aria-labelledby="heading4" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>We support cash payment and also payment through MTN MOMO or Orange Money. For each click or new user, your wallet balance tops up instantly and you can request to withdraw your money anytime through MOMO or OM</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+        <div class="card"> 
+         <div class="card-header" id="heading5"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse5" aria-expanded="false" aria-controls="collapse5"> <i class="las la-question-circle"></i> <span>What happens when I invite someone to MMCM?</span> </button> 
+         </div> 
+         <div id="collapse5" class="collapse " aria-labelledby="heading5" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>Your money actually increases every second if you invite another person and they subscribe to a plan. By inviting a user into the system, you earn at least 20%, 15,%, 10% 8%, or 7 % of the amount he/she used in subscribing to a plan. If you bring in a new user and he/she subscribes to a plan of 10000frs for example you get 2000frs from it, do your adverts on whatsapp, facebook, Instagram etc. Get more people to join by sharing your link. If you bring in as much as 100 users in a day and they successfully subscribe to a plan, you will be earning not less than 15000frs a day as referral Commission.</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+        <div class="card"> 
+         <div class="card-header" id="heading6"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse6" aria-expanded="false" aria-controls="collapse6"> <i class="las la-question-circle"></i> <span>What types of packages exist in MMCM?</span> </button> 
+         </div> 
+         <div id="collapse6" class="collapse " aria-labelledby="heading6" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>We have 24 subscription packages, and each package gives you one click a day. You can as well decide from your package to get 20%, 15%, 10%, 8% or 7% from each new user you bring in</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+        <div class="card"> 
+         <div class="card-header" id="heading7"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse7" aria-expanded="false" aria-controls="collapse7"> <i class="las la-question-circle"></i> <span>How to register or login</span> </button> 
+         </div> 
+         <div id="collapse7" class="collapse " aria-labelledby="heading7" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>Simply click on the register button to register and login button to login. Fill in the required information in the form fields then click the login now or register now. If you are new to the system, you have to confirm your email address before you can successfully register.</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+        <div class="card"> 
+         <div class="card-header" id="heading8"> 
+          <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapse8" aria-expanded="false" aria-controls="collapse8"> <i class="las la-question-circle"></i> <span>How to subscribe to MMCM Packages</span> </button> 
+         </div> 
+         <div id="collapse8" class="collapse " aria-labelledby="heading8" data-parent="#accordionExample"> 
+          <div class="card-body"> 
+           <p>Subscription to a package is quite easy, all you need to do is to click on the subscription button of a selected plan corresponding to your balance.</p> 
+          </div> 
+         </div> 
+        </div>
+        <!-- card end --> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </section> 
+   <!-- footer section start --> 
+   <footer class="footer-section"> 
+    <div class="footer-bottom"> 
+     <div class="container"> 
+      <hr> 
+      <div class="row"> 
+       <div class="col-lg-8 col-md-6 text-md-left text-center"> 
+        <p>Copyright © 2022 MMCM. All Rights Reserved.</p> 
+       </div> 
+       <div class="col-lg-4 col-md-6 mt-md-0 mt-3"> 
+        <ul class="link-list justify-content-md-end justify-content-center"> 
+         <li><a href="https://makemoneychopmoney.com/company-policy/83/mmcm-terms-and-condition">MMCM Terms and Condition</a></li> 
+         <li><a href="https://makemoneychopmoney.com/company-policy/82/mmcm-privacy-policy">MMCM Privacy Policy</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </footer> 
+   <!-- footer section end --> 
+  </div> 
+  <!-- page-wrapper end --> 
+  <!-- jQuery library --> 
+  <script src="https://makemoneychopmoney.com/assets/templates/basic//js/vendor/jquery-3.5.1.min.js"></script> 
+  <!-- bootstrap js --> 
+  <script src="https://makemoneychopmoney.com/assets/templates/basic//js/vendor/bootstrap.bundle.min.js"></script> 
+  <!-- lightcase plugin --> 
+  <script src="https://makemoneychopmoney.com/assets/templates/basic//js/vendor/lightcase.js"></script> 
+  <!-- custom select js --> 
+  <script src="https://makemoneychopmoney.com/assets/templates/basic//js/vendor/jquery.nice-select.min.js"></script> 
+  <!-- slick slider js --> 
+  <script src="https://makemoneychopmoney.com/assets/templates/basic//js/vendor/slick.min.js"></script> 
+  <!-- scroll animation --> 
+  <script src="https://makemoneychopmoney.com/assets/templates/basic//js/vendor/wow.min.js"></script> 
+  <!-- dashboard custom js --> 
+  <script src="https://makemoneychopmoney.com/assets/templates/basic//js/app.js"></script>  
+  <link rel="stylesheet" href="https://makemoneychopmoney.com/assets/admin/css/iziToast.min.css"> 
+  <script src="https://makemoneychopmoney.com/assets/admin/js/iziToast.min.js"></script> 
+  <script type="text/javascript">
+    (function($,document){
+        "use strict";
+                        function notify(status,message) {
+            iziToast[status]({
+                message: message,
+                position: "topRight"
+            });
+        }
+    })(jQuery);
+</script> 
+  <script type="text/javascript">
+  (function($,document){
+        "use strict";
+        $(document).on('change', '#langSel', function () {
+            var code = $(this).val();
+            window.location.href = "https://makemoneychopmoney.com/change-lang/"+code ;
+        });
+            
+    })(jQuery,document);
+</script>   
+ </body>
+</html>
